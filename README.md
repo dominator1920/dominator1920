@@ -34,6 +34,6 @@ I am a Computer Science graduate passionate about software development, Data Ana
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KshitizPranay-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pranay-kshitiz)
 [![GitHub](https://img.shields.io/badge/GitHub-KshitizPranay-181717?style=for-the-badge&logo=github)](https://github.com/dominator1920)
 [![Email](https://img.shields.io/badge/Gmail-kshitiz.pranay@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitiz.pranay@gmail.com)
-📄 [**My Resume**](https://drive.google.com/drive/search?q=resume%206)
+📄 [**My Resume**](https://drive.google.com/file/d/1UwR9hvvWEXrp8iTGKxdGTBJJi-4svi_d/view)
 
 😃 Thanks for visiting my profile!

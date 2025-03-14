@@ -1,6 +1,6 @@
 ### Hi there, I'm Kshitiz Pranay! 👋
 
-🚀 **Aspiring Software Development | Data Analyst | Machine learning**
+🚀 **Aspiring Software Development | Data Analysis | Machine learning**
 
 I am a Computer Science graduate passionate about software development, Data Analysis and automation. I love solving problems, learning new technologies, and contributing to open-source projects. 
 

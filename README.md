@@ -1,6 +1,6 @@
 ### Hi there, I'm Kshitiz Pranay! 👋
 
-🚀 **Aspiring QA Engineer | Full Stack Developer | Tech Enthusiast**
+🚀 **Aspiring Software Developer | Data Analyst | Machine learning**
 
 I am a Computer Science graduate passionate about software development, Data Analysis and automation. I love solving problems, learning new technologies, and contributing to open-source projects. 
 

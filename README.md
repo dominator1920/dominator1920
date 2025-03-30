@@ -80,7 +80,7 @@
   </a>
 </p>
 
-📄 [**My Resume**](https://drive.google.com/file/d/1UwR9hvvWEXrp8iTGKxdGTBJJi-4svi_d/view)  
+📄 [**My Resume**]([https://drive.google.com/file/d/1UwR9hvvWEXrp8iTGKxdGTBJJi-4svi_d/view](https://drive.google.com/file/d/1Fglqu-12AwWsEhhIjK4zo3MfRlSsuNkW/view?usp=sharing))  
 
 ---
 

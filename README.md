@@ -9,6 +9,12 @@
 
 ---
 
+## 📄 Resume  
+
+📌 **[View My Resume](https://drive.google.com/file/d/1Fglqu-12AwWsEhhIjK4zo3MfRlSsuNkW/view?usp=sharing)**  
+
+---
+
 ## 🚀 About Me  
 
 🎓 **Computer Science Graduate** with a passion for **Software Development**, **Data Analytics**, and **Automation**.  
@@ -61,8 +67,8 @@
 
 ## 🚀 Featured Projects  
 
-🔹 [**Portfolio Website**](https://github.com/dominator1920/portfolio) - 🌐 A **Vue.js-based** portfolio with animations and an interactive UI.  
-🔹 [**ML-Powered Android App**](https://github.com/dominator1920/ml-android-project) - 🤖 **Machine Learning integrated** Android application for intelligent decision-making.  
+🔹 **[Portfolio Website](https://github.com/dominator1920/portfolio)** – 🌐 A **Vue.js-based** personal portfolio with animations and an interactive UI.  
+🔹 **[ML-Powered Android App](https://github.com/dominator1920/ml-android-project)** – 🤖 **AI-driven mobile application** that integrates **Machine Learning models** to analyze and process data in real-time, enhancing user experience with intelligent features.  
 
 ---
 
@@ -79,8 +85,6 @@
     <img src="https://img.shields.io/badge/Gmail-kshitiz.pranay@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-📄 [**My Resume**]([https://drive.google.com/file/d/1UwR9hvvWEXrp8iTGKxdGTBJJi-4svi_d/view](https://drive.google.com/file/d/1Fglqu-12AwWsEhhIjK4zo3MfRlSsuNkW/view?usp=sharing))  
 
 ---
 

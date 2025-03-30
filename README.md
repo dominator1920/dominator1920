@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Kshitiz Pranay! 👋</h1>
 <p align="center">
-  <strong>🚀 Software Development | Data Analysis | Machine Learning Enthusiast</strong>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&width=500&lines=Passionate+Problem+Solver!;Software+Developer!;Data+Analyst!;Machine+Learning+Enthusiast!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&width=500&lines=Software+Developer!;Data+Analyst!;Machine+Learning+Enthusiast!" />
 </p>
 
 ---
@@ -17,9 +13,11 @@
 
 ## 🚀 About Me  
 
-🎓 **Computer Science Graduate** with a passion for **Software Development**, **Data Analytics**, and **Automation**.  
-💡 Enthusiastic about **solving problems**, **learning new technologies**, and **contributing to open-source projects**.  
-📈 Interested in **Machine Learning**, **Data Visualization**, and **Full-Stack Development**.  
+- 🎓 **Computer Science Graduate** passionate about **Software Development**, **Data Analytics**, and **Machine Learning**.  
+- 🔍 Experienced in **ETL, Data Pipelines, Cloud-based Processing, Debugging, and CI/CD**.  
+- 💪 Skilled in **SQL, Python, PySpark, SAP BO, Snowflake, Power BI, and Tableau**.  
+- 🌟 Specializing in **Data Validation, Anomaly Detection, and Optimizing Large-Scale Datasets**.  
+- ✨ Open to **collaborations**, **freelance projects**, and **hackathons**!  
 
 ---
 
@@ -40,41 +38,59 @@
   <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-### **🛠 DevOps & Version Control**  
+### **🛠️ Data Engineering & DevOps**  
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 Experience  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dominator1920&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dominator1920&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominator1920&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dominator1920&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
+### Support Engineer | Sutherland Global, Chennai, India *(Feb 2024 - Oct 2024)*  
+- Automated **ETL workflows** and optimized cloud-based data pipelines.
+- Implemented **data validation and anomaly detection**, reducing system vulnerabilities by **20%**.
+- Worked with **AWS RDS, Snowflake**, and **SQL query optimization** for better performance.
+- Assisted in **cloud migration tasks**, improving system efficiency.
+
+### Data Analyst Intern | Nandani Udyog *(Nov 2022 - Feb 2023)*  
+- Built **data ingestion pipelines** integrating various structured and semi-structured sources.
+- Designed **automated validation checks** for large-scale analytics projects.
+- Used **Snowflake & Python** to improve query performance and reduce processing time.
 
 ---
 
-## 🚀 Featured Projects  
+## 🌟 Featured Projects  
 
-🔹 **[Portfolio Website](https://github.com/dominator1920/portfolio)** – 🌐 A **Vue.js-based** personal portfolio with animations and an interactive UI.  
-🔹 **[ML-Powered Android App](https://github.com/dominator1920/ml-android-project)** – 🤖 **AI-driven mobile application** that integrates **Machine Learning models** to analyze and process data in real-time, enhancing user experience with intelligent features.  
+### **Credit Card Fraud Detection (Machine Learning)**  
+- Built a **fraud detection system** using Python and SQL, achieving **95% accuracy**.
+- Reduced fraud detection time by **40%** using advanced ML techniques.
+- Generated **real-time fraud reports**, improving financial risk monitoring.
+
+### **E-commerce Website Analytics**  
+- Created an **ETL workflow** for e-commerce sales data processing.
+- Automated **data extraction** from APIs and CSV files using **Apache NiFi**.
+- Built **Tableau dashboards** to visualize customer behavior trends.
+
+### **Fruit Disease Detection (Deep Learning + ETL)**  
+- Implemented an **ETL pipeline for image classification using CNNs**.
+- Integrated **Flask-based API** for real-time disease detection.
+- Deployed on **AWS Lambda** for scalable cloud execution.
 
 ---
 
-## 📬 Connect With Me  
+## 🎓 Education  
 
-<p align="left">
+**B.Tech, Computer Science and Engineering** | SRM-IST *(Aug 2020 - Aug 2024)*  
+**GPA:** 8.70  
+
+---
+
+## 📧 Connect With Me  
+
+<p align="center">
   <a href="https://linkedin.com/in/pranay-kshitiz">
     <img src="https://img.shields.io/badge/LinkedIn-KshitizPranay-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
@@ -89,5 +105,6 @@
 ---
 
 <h3 align="center">👀 Looking to collaborate on exciting projects in Data Science and Software Development! 🚀</h3>
+
 
 

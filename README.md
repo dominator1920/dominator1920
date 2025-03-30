@@ -79,6 +79,12 @@
 - Integrated **Flask-based API** for real-time disease detection.
 - Deployed on **AWS Lambda** for scalable cloud execution.
 
+#### 📊 Visual Dashboards
+<p align="center">
+  <img src="https://github.com/dominator1920/project-dashboard/blob/main/dashboard1.png" width="450"/>
+  <img src="https://github.com/dominator1920/project-dashboard/blob/main/dashboard2.png" width="450"/>
+</p>
+
 ---
 
 ## 🎓 Education  
@@ -105,6 +111,5 @@
 ---
 
 <h3 align="center">👀 Looking to collaborate on exciting projects in Data Science and Software Development! 🚀</h3>
-
 
 

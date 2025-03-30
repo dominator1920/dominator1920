@@ -87,6 +87,16 @@
 
 ---
 
+## 📈 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dominator1920&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dominator1920&show_icons=true&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominator1920&layout=compact&theme=dark&hide_border=true"/>
+</p>
+
+---
+
 ## 🎓 Education  
 
 **B.Tech, Computer Science and Engineering** | SRM-IST *(Aug 2020 - Aug 2024)*  
@@ -111,5 +121,4 @@
 ---
 
 <h3 align="center">👀 Looking to collaborate on exciting projects in Data Science and Software Development! 🚀</h3>
-
 
